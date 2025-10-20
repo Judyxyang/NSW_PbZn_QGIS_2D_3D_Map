@@ -1,0 +1,69 @@
+newmtl CLO_CobarPbZn_TrainingPoints_instance_point_material
+	Ka 0.100008 0.100008 0.100008
+	Kd 0.700008 0.700008 0.700008
+	Ks 1 1 1
+	Ns 0
+	illum 2
+newmtl CLO_CobarPbZn_TrainingPoints_instance_point2_material
+	Ka 0.100008 0.100008 0.100008
+	Kd 0.700008 0.700008 0.700008
+	Ks 1 1 1
+	Ns 0
+	illum 2
+newmtl CLO_CobarPbZn_TrainingPoints_instance_point3_material
+	Ka 0.100008 0.100008 0.100008
+	Kd 0.700008 0.700008 0.700008
+	Ks 1 1 1
+	Ns 0
+	illum 2
+newmtl CLO_CobarPbZn_TrainingPoints_instance_point4_material
+	Ka 0.100008 0.100008 0.100008
+	Kd 0.700008 0.700008 0.700008
+	Ks 1 1 1
+	Ns 0
+	illum 2
+newmtl CLO_CobarPbZn_TrainingPoints_instance_point5_material
+	Ka 0.100008 0.100008 0.100008
+	Kd 0.700008 0.700008 0.700008
+	Ks 1 1 1
+	Ns 0
+	illum 2
+newmtl CLO_CobarPbZn_TrainingPoints_instance_point6_material
+	Ka 0.100008 0.100008 0.100008
+	Kd 0.700008 0.700008 0.700008
+	Ks 1 1 1
+	Ns 0
+	illum 2
+newmtl CLO_CobarPbZn_TrainingPoints_instance_point7_material
+	Ka 0.100008 0.100008 0.100008
+	Kd 0.700008 0.700008 0.700008
+	Ks 1 1 1
+	Ns 0
+	illum 2
+newmtl CLO_CobarPbZn_TrainingPoints_instance_point8_material
+	Ka 0.100008 0.100008 0.100008
+	Kd 0.700008 0.700008 0.700008
+	Ks 1 1 1
+	Ns 0
+	illum 2
+newmtl CLO_CobarPbZn_TrainingPoints_instance_point9_material
+	Ka 0.100008 0.100008 0.100008
+	Kd 0.700008 0.700008 0.700008
+	Ks 1 1 1
+	Ns 0
+	illum 2
+newmtl CLO_CobarPbZn_TrainingPoints_instance_point10_material
+	Ka 0.100008 0.100008 0.100008
+	Kd 0.700008 0.700008 0.700008
+	Ks 1 1 1
+	Ns 0
+	illum 2
+newmtl CLO_CobarPbZn_TrainingPoints_instance_point11_material
+	Ka 0.100008 0.100008 0.100008
+	Kd 0.700008 0.700008 0.700008
+	Ks 1 1 1
+	Ns 0
+	illum 2
+newmtl Terrain_DEM_tile_material
+	map_Kd Terrain_DEM_tile_material.jpg
+	illum 2
