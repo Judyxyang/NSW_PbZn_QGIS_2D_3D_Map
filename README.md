@@ -21,7 +21,7 @@ The data in these packages were reformatted and reorganised to improve the usabi
 - Folder/file structure made consistent across all 4 mineral potential data packages
 
 No reinterpretation of the data was conducted. 
+geoscience.nsw.gov.au
 
-For more information please contact the Geological Survey of NSW’s Mineral Systems team at minsys.info@geoscience.nsw.gov.au
 
  
